@@ -1,0 +1,44 @@
+{
+    "author": "Brain in a Bowl",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hobbit-neue",
+    "pebble": {
+        "displayName": "Hobbit Neue",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "characterRegex": "[almostbrekfcondvuhpig? ~]",
+                    "file": "fonts/HOUR",
+                    "name": "HOUR_36",
+                    "targetPlatforms": null,
+                    "trackingAdjust": -1,
+                    "type": "font"
+                },
+                {
+                    "characterRegex": "[: 0-9]",
+                    "file": "fonts/Pixel Millennium.ttf",
+                    "name": "Font_Date_16",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "af7d2d7c-0cb9-42b7-9a29-1b43541a9c70",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
